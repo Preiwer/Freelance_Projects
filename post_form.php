@@ -18,7 +18,7 @@
 
         <h3 class="title mb-0" style="font-size: 20px; font-weight:500">Выберите, о ком будет отзыв</h3>
         <span style="font-size: 12px;">О ком ваш отзыв? Компания или человек?</span>
-        <div class="conainer box radio-box">
+        <div class="conainer box radio-box" style="gap:30px">
             <label class="label radio-control">
                 <input type="radio" class="radio" value="human" name="category" checked>
                 <i class="fa-solid fa-person" style="color: #ffe08a;"></i>
